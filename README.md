@@ -1,7 +1,8 @@
 # Catálogo de Produtos - Blocks
 
 ## Visão Geral
-Catálogo dinâmico com scroll infinito, desenvolvido em Next.js, para exibição de produtos da Blocks.
+O teste consiste em desenvolver um catálogo de produtos da Blocks utilizando a API fornecida. O catálogo deve implementar scroll infinito para carregar mais produtos à medida que o usuário rola a página. 
+
 ## Tecnologias Utilizadas
 - **Frontend**: Next.js 15, React 19, TypeScript  
 - **Estilização**: Tailwind CSS  
