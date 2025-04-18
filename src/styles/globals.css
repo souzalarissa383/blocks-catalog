@@ -27,7 +27,6 @@ body {
   padding: 1rem;
 }
 
-/* O restante do seu CSS permanece exatamente igual */
 .product-card {
   display: flex;
   flex-direction: column;
@@ -111,7 +110,6 @@ body {
   line-height: 1.25rem;
 }
 
-/* Responsividade: para telas menores */
 @media (max-width: 400px) {
   .product-card {
     max-width: 100%;
